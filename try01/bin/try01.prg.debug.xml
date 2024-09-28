@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/rado/garmin/try01/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="1" lineNum="5" parent="globals/try01App" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="2" lineNum="26" parent="globals" pc="268435479" symbol="getApp"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="2" lineNum="27" parent="globals" pc="268435489" symbol="getApp"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="4" lineNum="6" parent="globals/try01View" pc="268435529" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="5" lineNum="12" parent="globals/try01App" pc="268435548" symbol="onStart"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="6" lineNum="20" parent="globals/try01App" pc="268435551" symbol="getInitialView"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="6" lineNum="21" parent="globals/try01App" pc="268435553" symbol="getInitialView"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="7" lineNum="7" parent="globals/try01App" pc="268435594" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="7" lineNum="8" parent="globals/try01App" pc="268435596" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01App.mc" id="8" lineNum="16" parent="globals/try01App" pc="268435615" symbol="onStop"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="11" lineNum="13" parent="globals/try01View" pc="268435618" symbol="onLayout"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="11" lineNum="14" parent="globals/try01View" pc="268435620" symbol="onLayout"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="13" lineNum="8" parent="globals/try01View" pc="268435662" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="13" lineNum="9" parent="globals/try01View" pc="268435664" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="24" parent="globals/try01View" pc="268435683" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="26" parent="globals/try01View" pc="268435687" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="27" parent="globals/try01View" pc="268435704" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="28" parent="globals/try01View" pc="268435778" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="29" parent="globals/try01View" pc="268435806" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="32" parent="globals/try01View" pc="268435820" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="15" parent="globals/Rez/Layouts" pc="268435845" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="16" parent="globals/Rez/Layouts" pc="268435857" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="17" parent="globals/Rez/Layouts" pc="268435962" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268436002" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268436107" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436147" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="24" parent="globals/Rez/Layouts" pc="268436269" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="12" symbol="AppName"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="10" symbol="KarinaName"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="11" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="9" symbol="Karina"/>
+        <entry id="8" module="true" symbol="Layouts"/>
+        <entry id="7" object="true" symbol="try01View"/>
+        <entry id="6" object="true" symbol="try01App"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435661" name="dc" stackId="1" startPc="268435618"/>
+        <entry arg="true" endPc="268435844" name="dc" stackId="1" startPc="268435683"/>
+        <entry endPc="268435843" name="clockTime" stackId="2" startPc="268435687"/>
+        <entry endPc="268435843" name="timeString" stackId="3" startPc="268435687"/>
+        <entry endPc="268435843" name="view" stackId="4" startPc="268435687"/>
+        <entry arg="true" endPc="268436305" name="dc" stackId="1" startPc="268435845"/>
+        <entry endPc="268436305" name="rez_cmp_local_bitmap_KarinaName" stackId="2" startPc="268435857"/>
+        <entry endPc="268436305" name="rez_cmp_local_bitmap_Karina" stackId="3" startPc="268435857"/>
+        <entry endPc="268436305" name="rez_cmp_local_text_TimeLabel" stackId="4" startPc="268435857"/>
+    </localVars>
+    <deviceInfo deviceVersion="4b539e49a861670d65dc65ba400dea167e8109d1" partNumber="006-B4155-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="KarinaName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Karina"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="63" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/try01App" offset="134" parentId="globals" symbolId="try01App" type="class"/>
+        <dataEntry label="globals/Rez" offset="205" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/try01View" offset="260" parentId="globals" symbolId="try01View" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="355" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="410" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="449" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="try01App" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="getApp" startPc="268435479">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435528" name="&lt;init&gt;" parent="Rez" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435547" name="&lt;init&gt;" parent="try01View" startPc="268435529">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435550" name="onStart" parent="try01App" startPc="268435548">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435593" name="getInitialView" parent="try01App" startPc="268435551">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435614" name="initialize" parent="try01App" startPc="268435594">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435617" name="onStop" parent="try01App" startPc="268435615">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="try01View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="try01View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435661" name="onLayout" parent="try01View" startPc="268435618">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="try01View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435682" name="initialize" parent="try01View" startPc="268435662">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="try01View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435844" name="onUpdate" parent="try01View" startPc="268435683">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436305" name="WatchFace" parent="Layouts" startPc="268435845">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
