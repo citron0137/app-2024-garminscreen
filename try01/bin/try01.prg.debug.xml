@@ -25,10 +25,10 @@
         <entry filename="/Users/rado/garmin/try01/source/try01View.mc" id="15" lineNum="32" parent="globals/try01View" pc="268435820" symbol="onUpdate"/>
         <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="15" parent="globals/Rez/Layouts" pc="268435845" symbol="WatchFace"/>
         <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="16" parent="globals/Rez/Layouts" pc="268435857" symbol="WatchFace"/>
-        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="17" parent="globals/Rez/Layouts" pc="268435962" symbol="WatchFace"/>
-        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268436002" symbol="WatchFace"/>
-        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268436107" symbol="WatchFace"/>
-        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436147" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="18" parent="globals/Rez/Layouts" pc="268435979" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="19" parent="globals/Rez/Layouts" pc="268436084" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="21" parent="globals/Rez/Layouts" pc="268436124" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="22" parent="globals/Rez/Layouts" pc="268436229" symbol="WatchFace"/>
         <entry filename="/Users/rado/garmin/try01/bin/gen/006-B4155-00/source/Rez.mcgen" id="16" lineNum="24" parent="globals/Rez/Layouts" pc="268436269" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
@@ -81,9 +81,9 @@
         <entry endPc="268435843" name="timeString" stackId="3" startPc="268435687"/>
         <entry endPc="268435843" name="view" stackId="4" startPc="268435687"/>
         <entry arg="true" endPc="268436305" name="dc" stackId="1" startPc="268435845"/>
-        <entry endPc="268436305" name="rez_cmp_local_bitmap_KarinaName" stackId="2" startPc="268435857"/>
-        <entry endPc="268436305" name="rez_cmp_local_bitmap_Karina" stackId="3" startPc="268435857"/>
-        <entry endPc="268436305" name="rez_cmp_local_text_TimeLabel" stackId="4" startPc="268435857"/>
+        <entry endPc="268436305" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435857"/>
+        <entry endPc="268436305" name="rez_cmp_local_bitmap_KarinaName" stackId="3" startPc="268435857"/>
+        <entry endPc="268436305" name="rez_cmp_local_bitmap_Karina" stackId="4" startPc="268435857"/>
     </localVars>
     <deviceInfo deviceVersion="4b539e49a861670d65dc65ba400dea167e8109d1" partNumber="006-B4155-00"/>
     <annotations>

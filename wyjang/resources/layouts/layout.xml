@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <bitmap id="Name" x="13" y="center" filename="../images/text_51x170.png"/>
+    <bitmap id="Picture" x="right" y="center" filename="../images/wyjang_135x180_2.png"/>
+</layout>

@@ -6,22 +6,22 @@ using Toybox.Graphics as Gfx;
 
 module Rez {
     module Drawables {
-        (:initialized) var KarinaName as ResourceId;
-        (:initialized) var Karina as ResourceId;
+        (:initialized) var Name as ResourceId;
+        (:initialized) var Picture as ResourceId;
         (:initialized) var LauncherIcon as ResourceId;
     } // Drawables
 
     module Layouts {
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
-            var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :locX=>(176 * 0.5), :locY=>((176 - dc.getFontHeight(Graphics.FONT_LARGE)) * 0.5), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_LARGE});
+            var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :color=>Graphics.COLOR_BLUE, :locX=>(176 * 0.5), :locY=>((176 - dc.getFontHeight(Graphics.FONT_LARGE)) * 0.5), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_LARGE});
 
-            var rez_cmp_local_bitmap_KarinaName = new WatchUi.Bitmap({:identifier=>"KarinaName", :rezId=>$.Rez.Drawables.KarinaName, :locX=>7, :locY=>WatchUi.LAYOUT_VALIGN_CENTER});
-            rez_cmp_local_bitmap_KarinaName.setLocation(rez_cmp_local_bitmap_KarinaName.locX, ((176 - rez_cmp_local_bitmap_KarinaName.height) * 0.5));
+            var rez_cmp_local_bitmap_Name = new WatchUi.Bitmap({:identifier=>"Name", :rezId=>$.Rez.Drawables.Name, :locX=>13, :locY=>WatchUi.LAYOUT_VALIGN_CENTER});
+            rez_cmp_local_bitmap_Name.setLocation(rez_cmp_local_bitmap_Name.locX, ((176 - rez_cmp_local_bitmap_Name.height) * 0.5));
 
-            var rez_cmp_local_bitmap_Karina = new WatchUi.Bitmap({:identifier=>"Karina", :rezId=>$.Rez.Drawables.Karina, :locX=>WatchUi.LAYOUT_HALIGN_RIGHT, :locY=>WatchUi.LAYOUT_VALIGN_CENTER});
-            rez_cmp_local_bitmap_Karina.setLocation(rez_cmp_local_bitmap_Karina.locX, ((176 - rez_cmp_local_bitmap_Karina.height) * 0.5));
+            var rez_cmp_local_bitmap_Picture = new WatchUi.Bitmap({:identifier=>"Picture", :rezId=>$.Rez.Drawables.Picture, :locX=>WatchUi.LAYOUT_HALIGN_RIGHT, :locY=>WatchUi.LAYOUT_VALIGN_CENTER});
+            rez_cmp_local_bitmap_Picture.setLocation(rez_cmp_local_bitmap_Picture.locX, ((176 - rez_cmp_local_bitmap_Picture.height) * 0.5));
 
-            return [rez_cmp_local_text_TimeLabel, rez_cmp_local_bitmap_KarinaName, rez_cmp_local_bitmap_Karina] as Array<WatchUi.Drawable>;
+            return [rez_cmp_local_text_TimeLabel, rez_cmp_local_bitmap_Name, rez_cmp_local_bitmap_Picture] as Array<WatchUi.Drawable>;
         }
     } // Layouts
 

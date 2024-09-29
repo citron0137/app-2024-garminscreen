@@ -1,5 +1,5 @@
 <layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <bitmap id="KarinaName" x="7" y="center" filename="../drawables/karinaText_71x180.png"/>
     <bitmap id="Karina" x="right" y="center" filename="../drawables/karina_128x170_2.png"/>
-    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
 </layout>

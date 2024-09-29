@@ -1,0 +1,57 @@
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 1; ]
+import Toybox.Application;
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 2; ]
+import Toybox.Lang;
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 3; ]
+import Toybox.WatchUi;
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 5; ]
+class wyjangApp extends Application.AppBase{
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 7; ]
+    function initialize() as Void {
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_7_26_9_4_start:
+[ "/Users/rado/garmin/wyjang/source/wyjangApp.mc" 8 8 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_7_26_9_4_stop:
+    }
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 12; ]
+    function onStart(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 16; ]
+    function onStop(state as Dictionary or Null) as Void {
+    }
+    [ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 20; ]
+    function getInitialView() as [Views] or [Views, InputDelegates] {
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_20_68_22_4_start:
+[ "/Users/rado/garmin/wyjang/source/wyjangApp.mc" 21 8 ]
+        %tmp.1 = newa 1;
+        %tmp.5 = getv ? :wyjangView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        ret %tmp.7;
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_20_68_22_4_stop:
+    }
+}
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 26; ]
+function getApp() as wyjangApp {
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_26_31_28_0_start:
+[ "/Users/rado/garmin/wyjang/source/wyjangApp.mc" 27 4 ]
+    %tmp.1 = getm $.Toybox.Application;
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 wyjangApp;
+    ret %tmp.4;
+_Users_rado_garmin_wyjang_source_wyjangApp_mc_26_31_28_0_stop:
+}
+[ @file = "/Users/rado/garmin/wyjang/source/wyjangApp.mc"; @line = 1; ]
+<init> {
+}
