@@ -1,0 +1,23 @@
+<layout id="WatchFace">
+    <!-- display 176 * 176 -->
+    <!-- font h=20 -->
+    <!-- 
+        There should be 
+        1. Date (including day of the week) -> 143, center
+        2. Battery -> center, 136
+        +. body battery -> center, 136
+        3. Weather -> center, 156
+
+        // TODO 
+        4. Solar intensity
+        +. connection?
+        +. notification count
+        +. music?
+    -->
+
+
+    <label id="TopCenterLabel" x="center" y="0" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="MiddleLeftLabel" x="left" y="center" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
+    <label id="MiddleRightLabel" x="right" y="center" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_WHITE" />
+    <label id="BottomCenterLabel" x="center" y="130" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+</layout>

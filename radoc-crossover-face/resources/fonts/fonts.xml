@@ -1,0 +1,5 @@
+<fonts>
+    <font id="Calculator" filename="Calculator.fnt" />
+    <font id="CAL_20" filename="cal_20.fnt" antialias="true" />
+    <font id="CAL_20B" filename="cal_20b.fnt" antialias="true" />
+</fonts>

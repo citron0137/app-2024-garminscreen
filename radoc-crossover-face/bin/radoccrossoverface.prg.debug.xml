@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/rado/garmin/radoc-crossover-face/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="1" lineNum="5" parent="globals/radoc_crossover_faceApp" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="2" lineNum="26" parent="globals" pc="268435479" symbol="getApp"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="2" lineNum="27" parent="globals" pc="268435489" symbol="getApp"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="4" lineNum="11" parent="globals/radoc_crossover_faceView" pc="268435529" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="5" lineNum="12" parent="globals/radoc_crossover_faceApp" pc="268435548" symbol="onStart"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="6" lineNum="20" parent="globals/radoc_crossover_faceApp" pc="268435551" symbol="getInitialView"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="6" lineNum="21" parent="globals/radoc_crossover_faceApp" pc="268435553" symbol="getInitialView"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="7" lineNum="7" parent="globals/radoc_crossover_faceApp" pc="268435594" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="7" lineNum="8" parent="globals/radoc_crossover_faceApp" pc="268435596" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceApp.mc" id="8" lineNum="16" parent="globals/radoc_crossover_faceApp" pc="268435615" symbol="onStop"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="9" lineNum="165" parent="globals/radoc_crossover_faceView" pc="268435618" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="9" lineNum="166" parent="globals/radoc_crossover_faceView" pc="268435622" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="9" lineNum="168" parent="globals/radoc_crossover_faceView" pc="268435671" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="9" lineNum="169" parent="globals/radoc_crossover_faceView" pc="268435699" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="9" lineNum="170" parent="globals/radoc_crossover_faceView" pc="268435719" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="10" lineNum="124" parent="globals/radoc_crossover_faceView" pc="268435740" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="10" lineNum="125" parent="globals/radoc_crossover_faceView" pc="268435742" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="10" lineNum="125" parent="globals/radoc_crossover_faceView" pc="268435754" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="10" lineNum="126" parent="globals/radoc_crossover_faceView" pc="268435763" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="130" parent="globals/radoc_crossover_faceView" pc="268435826" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="132" parent="globals/radoc_crossover_faceView" pc="268435830" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="132" parent="globals/radoc_crossover_faceView" pc="268435842" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="133" parent="globals/radoc_crossover_faceView" pc="268435858" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="133" parent="globals/radoc_crossover_faceView" pc="268435870" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="134" parent="globals/radoc_crossover_faceView" pc="268435886" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="135" parent="globals/radoc_crossover_faceView" pc="268435912" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="141" parent="globals/radoc_crossover_faceView" pc="268436010" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="142" parent="globals/radoc_crossover_faceView" pc="268436038" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="11" lineNum="143" parent="globals/radoc_crossover_faceView" pc="268436052" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="146" parent="globals/radoc_crossover_faceView" pc="268436073" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="147" parent="globals/radoc_crossover_faceView" pc="268436077" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="148" parent="globals/radoc_crossover_faceView" pc="268436084" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="149" parent="globals/radoc_crossover_faceView" pc="268436098" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="150" parent="globals/radoc_crossover_faceView" pc="268436118" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="151" parent="globals/radoc_crossover_faceView" pc="268436138" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="152" parent="globals/radoc_crossover_faceView" pc="268436158" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="153" parent="globals/radoc_crossover_faceView" pc="268436178" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="154" parent="globals/radoc_crossover_faceView" pc="268436198" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="155" parent="globals/radoc_crossover_faceView" pc="268436218" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="156" parent="globals/radoc_crossover_faceView" pc="268436238" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="149" parent="globals/radoc_crossover_faceView" pc="268436241" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="149" parent="globals/radoc_crossover_faceView" pc="268436248" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="150" parent="globals/radoc_crossover_faceView" pc="268436251" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="150" parent="globals/radoc_crossover_faceView" pc="268436258" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="151" parent="globals/radoc_crossover_faceView" pc="268436261" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="151" parent="globals/radoc_crossover_faceView" pc="268436268" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="152" parent="globals/radoc_crossover_faceView" pc="268436271" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="152" parent="globals/radoc_crossover_faceView" pc="268436278" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="153" parent="globals/radoc_crossover_faceView" pc="268436281" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="153" parent="globals/radoc_crossover_faceView" pc="268436288" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="154" parent="globals/radoc_crossover_faceView" pc="268436291" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="154" parent="globals/radoc_crossover_faceView" pc="268436298" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="155" parent="globals/radoc_crossover_faceView" pc="268436301" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="155" parent="globals/radoc_crossover_faceView" pc="268436308" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="156" parent="globals/radoc_crossover_faceView" pc="268436311" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="156" parent="globals/radoc_crossover_faceView" pc="268436318" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="158" parent="globals/radoc_crossover_faceView" pc="268436322" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="160" parent="globals/radoc_crossover_faceView" pc="268436382" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="161" parent="globals/radoc_crossover_faceView" pc="268436410" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="12" lineNum="162" parent="globals/radoc_crossover_faceView" pc="268436430" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="13" lineNum="215" parent="globals/radoc_crossover_faceView" pc="268436445" symbol="onHide"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="13" lineNum="216" parent="globals/radoc_crossover_faceView" pc="268436447" symbol="onHide"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="13" lineNum="217" parent="globals/radoc_crossover_faceView" pc="268436459" symbol="onHide"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="62" parent="globals/radoc_crossover_faceView" pc="268436470" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="63" parent="globals/radoc_crossover_faceView" pc="268436472" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="63" parent="globals/radoc_crossover_faceView" pc="268436484" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="64" parent="globals/radoc_crossover_faceView" pc="268436493" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="65" parent="globals/radoc_crossover_faceView" pc="268436507" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="66" parent="globals/radoc_crossover_faceView" pc="268436527" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="67" parent="globals/radoc_crossover_faceView" pc="268436547" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="68" parent="globals/radoc_crossover_faceView" pc="268436567" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="69" parent="globals/radoc_crossover_faceView" pc="268436587" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="70" parent="globals/radoc_crossover_faceView" pc="268436607" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="71" parent="globals/radoc_crossover_faceView" pc="268436627" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="72" parent="globals/radoc_crossover_faceView" pc="268436647" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="73" parent="globals/radoc_crossover_faceView" pc="268436667" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="74" parent="globals/radoc_crossover_faceView" pc="268436687" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="75" parent="globals/radoc_crossover_faceView" pc="268436707" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="76" parent="globals/radoc_crossover_faceView" pc="268436727" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="77" parent="globals/radoc_crossover_faceView" pc="268436747" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="78" parent="globals/radoc_crossover_faceView" pc="268436767" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="79" parent="globals/radoc_crossover_faceView" pc="268436787" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="80" parent="globals/radoc_crossover_faceView" pc="268436807" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="81" parent="globals/radoc_crossover_faceView" pc="268436827" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="82" parent="globals/radoc_crossover_faceView" pc="268436847" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="83" parent="globals/radoc_crossover_faceView" pc="268436867" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="84" parent="globals/radoc_crossover_faceView" pc="268436887" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="85" parent="globals/radoc_crossover_faceView" pc="268436907" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="86" parent="globals/radoc_crossover_faceView" pc="268436927" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="87" parent="globals/radoc_crossover_faceView" pc="268436947" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="88" parent="globals/radoc_crossover_faceView" pc="268436967" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="89" parent="globals/radoc_crossover_faceView" pc="268436987" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="90" parent="globals/radoc_crossover_faceView" pc="268437007" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="91" parent="globals/radoc_crossover_faceView" pc="268437027" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="92" parent="globals/radoc_crossover_faceView" pc="268437047" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="93" parent="globals/radoc_crossover_faceView" pc="268437067" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="94" parent="globals/radoc_crossover_faceView" pc="268437087" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="95" parent="globals/radoc_crossover_faceView" pc="268437107" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="96" parent="globals/radoc_crossover_faceView" pc="268437127" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="97" parent="globals/radoc_crossover_faceView" pc="268437147" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="98" parent="globals/radoc_crossover_faceView" pc="268437167" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="99" parent="globals/radoc_crossover_faceView" pc="268437187" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="100" parent="globals/radoc_crossover_faceView" pc="268437207" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="101" parent="globals/radoc_crossover_faceView" pc="268437227" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="102" parent="globals/radoc_crossover_faceView" pc="268437247" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="103" parent="globals/radoc_crossover_faceView" pc="268437267" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="104" parent="globals/radoc_crossover_faceView" pc="268437287" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="105" parent="globals/radoc_crossover_faceView" pc="268437307" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="106" parent="globals/radoc_crossover_faceView" pc="268437327" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="107" parent="globals/radoc_crossover_faceView" pc="268437347" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="108" parent="globals/radoc_crossover_faceView" pc="268437367" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="109" parent="globals/radoc_crossover_faceView" pc="268437387" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="110" parent="globals/radoc_crossover_faceView" pc="268437407" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="111" parent="globals/radoc_crossover_faceView" pc="268437427" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="112" parent="globals/radoc_crossover_faceView" pc="268437447" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="113" parent="globals/radoc_crossover_faceView" pc="268437467" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="114" parent="globals/radoc_crossover_faceView" pc="268437487" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="115" parent="globals/radoc_crossover_faceView" pc="268437507" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="116" parent="globals/radoc_crossover_faceView" pc="268437527" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="117" parent="globals/radoc_crossover_faceView" pc="268437547" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="118" parent="globals/radoc_crossover_faceView" pc="268437567" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="119" parent="globals/radoc_crossover_faceView" pc="268437587" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="65" parent="globals/radoc_crossover_faceView" pc="268437610" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="66" parent="globals/radoc_crossover_faceView" pc="268437616" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="67" parent="globals/radoc_crossover_faceView" pc="268437622" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="68" parent="globals/radoc_crossover_faceView" pc="268437628" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="69" parent="globals/radoc_crossover_faceView" pc="268437634" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="70" parent="globals/radoc_crossover_faceView" pc="268437640" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="71" parent="globals/radoc_crossover_faceView" pc="268437646" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="72" parent="globals/radoc_crossover_faceView" pc="268437652" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="73" parent="globals/radoc_crossover_faceView" pc="268437658" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="74" parent="globals/radoc_crossover_faceView" pc="268437664" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="75" parent="globals/radoc_crossover_faceView" pc="268437670" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="76" parent="globals/radoc_crossover_faceView" pc="268437676" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="77" parent="globals/radoc_crossover_faceView" pc="268437682" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="78" parent="globals/radoc_crossover_faceView" pc="268437688" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="79" parent="globals/radoc_crossover_faceView" pc="268437694" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="80" parent="globals/radoc_crossover_faceView" pc="268437700" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="81" parent="globals/radoc_crossover_faceView" pc="268437706" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="82" parent="globals/radoc_crossover_faceView" pc="268437712" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="83" parent="globals/radoc_crossover_faceView" pc="268437718" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="84" parent="globals/radoc_crossover_faceView" pc="268437724" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="85" parent="globals/radoc_crossover_faceView" pc="268437730" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="86" parent="globals/radoc_crossover_faceView" pc="268437736" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="87" parent="globals/radoc_crossover_faceView" pc="268437742" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="88" parent="globals/radoc_crossover_faceView" pc="268437748" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="89" parent="globals/radoc_crossover_faceView" pc="268437754" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="90" parent="globals/radoc_crossover_faceView" pc="268437760" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="91" parent="globals/radoc_crossover_faceView" pc="268437766" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="92" parent="globals/radoc_crossover_faceView" pc="268437772" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="93" parent="globals/radoc_crossover_faceView" pc="268437778" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="94" parent="globals/radoc_crossover_faceView" pc="268437784" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="95" parent="globals/radoc_crossover_faceView" pc="268437790" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="96" parent="globals/radoc_crossover_faceView" pc="268437796" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="97" parent="globals/radoc_crossover_faceView" pc="268437802" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="98" parent="globals/radoc_crossover_faceView" pc="268437808" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="99" parent="globals/radoc_crossover_faceView" pc="268437814" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="100" parent="globals/radoc_crossover_faceView" pc="268437820" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="101" parent="globals/radoc_crossover_faceView" pc="268437826" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="102" parent="globals/radoc_crossover_faceView" pc="268437832" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="103" parent="globals/radoc_crossover_faceView" pc="268437838" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="104" parent="globals/radoc_crossover_faceView" pc="268437844" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="105" parent="globals/radoc_crossover_faceView" pc="268437850" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="106" parent="globals/radoc_crossover_faceView" pc="268437856" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="107" parent="globals/radoc_crossover_faceView" pc="268437862" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="108" parent="globals/radoc_crossover_faceView" pc="268437868" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="109" parent="globals/radoc_crossover_faceView" pc="268437874" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="110" parent="globals/radoc_crossover_faceView" pc="268437880" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="111" parent="globals/radoc_crossover_faceView" pc="268437886" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="112" parent="globals/radoc_crossover_faceView" pc="268437892" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="113" parent="globals/radoc_crossover_faceView" pc="268437898" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="114" parent="globals/radoc_crossover_faceView" pc="268437904" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="115" parent="globals/radoc_crossover_faceView" pc="268437910" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="116" parent="globals/radoc_crossover_faceView" pc="268437916" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="117" parent="globals/radoc_crossover_faceView" pc="268437922" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="118" parent="globals/radoc_crossover_faceView" pc="268437928" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="119" parent="globals/radoc_crossover_faceView" pc="268437934" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="14" lineNum="121" parent="globals/radoc_crossover_faceView" pc="268437941" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="16" lineNum="196" parent="globals/radoc_crossover_faceView" pc="268437947" symbol="onShow"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="16" lineNum="197" parent="globals/radoc_crossover_faceView" pc="268437949" symbol="onShow"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="16" lineNum="198" parent="globals/radoc_crossover_faceView" pc="268437961" symbol="onShow"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="173" parent="globals/radoc_crossover_faceView" pc="268437972" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="174" parent="globals/radoc_crossover_faceView" pc="268437976" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="175" parent="globals/radoc_crossover_faceView" pc="268438064" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="176" parent="globals/radoc_crossover_faceView" pc="268438110" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="177" parent="globals/radoc_crossover_faceView" pc="268438138" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="17" lineNum="178" parent="globals/radoc_crossover_faceView" pc="268438152" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="18" lineNum="189" parent="globals/radoc_crossover_faceView" pc="268438173" symbol="onLayout"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="18" lineNum="190" parent="globals/radoc_crossover_faceView" pc="268438175" symbol="onLayout"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="42" parent="globals/radoc_crossover_faceView" pc="268438217" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="43" parent="globals/radoc_crossover_faceView" pc="268438219" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="44" parent="globals/radoc_crossover_faceView" pc="268438242" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="45" parent="globals/radoc_crossover_faceView" pc="268438264" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="47" parent="globals/radoc_crossover_faceView" pc="268438286" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="48" parent="globals/radoc_crossover_faceView" pc="268438322" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="19" lineNum="50" parent="globals/radoc_crossover_faceView" pc="268438395" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="53" parent="globals/radoc_crossover_faceView" pc="268438419" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="54" parent="globals/radoc_crossover_faceView" pc="268438421" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="55" parent="globals/radoc_crossover_faceView" pc="268438430" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="56" parent="globals/radoc_crossover_faceView" pc="268438439" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="57" parent="globals/radoc_crossover_faceView" pc="268438448" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="20" lineNum="58" parent="globals/radoc_crossover_faceView" pc="268438461" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="21" lineNum="35" parent="globals/radoc_crossover_faceView" pc="268438475" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="21" lineNum="36" parent="globals/radoc_crossover_faceView" pc="268438477" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="21" lineNum="37" parent="globals/radoc_crossover_faceView" pc="268438500" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="21" lineNum="38" parent="globals/radoc_crossover_faceView" pc="268438522" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="21" lineNum="39" parent="globals/radoc_crossover_faceView" pc="268438565" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="23" lineNum="30" parent="globals/radoc_crossover_faceView" pc="268438588" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadResources&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="23" lineNum="31" parent="globals/radoc_crossover_faceView" pc="268438590" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadResources&gt;"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="24" lineNum="183" parent="globals/radoc_crossover_faceView" pc="268438638" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="24" lineNum="184" parent="globals/radoc_crossover_faceView" pc="268438640" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="24" lineNum="185" parent="globals/radoc_crossover_faceView" pc="268438658" symbol="initialize"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="202" parent="globals/radoc_crossover_faceView" pc="268438671" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="203" parent="globals/radoc_crossover_faceView" pc="268438673" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="204" parent="globals/radoc_crossover_faceView" pc="268438685" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="205" parent="globals/radoc_crossover_faceView" pc="268438697" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="206" parent="globals/radoc_crossover_faceView" pc="268438709" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="207" parent="globals/radoc_crossover_faceView" pc="268438721" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/source/radoc-crossover-faceView.mc" id="25" lineNum="208" parent="globals/radoc_crossover_faceView" pc="268438733" symbol="onUpdate"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="19" parent="globals/Rez/Layouts" pc="268438758" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="20" parent="globals/Rez/Layouts" pc="268438770" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="22" parent="globals/Rez/Layouts" pc="268438882" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="24" parent="globals/Rez/Layouts" pc="268439017" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="26" parent="globals/Rez/Layouts" pc="268439152" symbol="WatchFace"/>
+        <entry filename="/Users/rado/garmin/radoc-crossover-face/bin/gen/006-B4155-00/source/Rez.mcgen" id="26" lineNum="28" parent="globals/Rez/Layouts" pc="268439264" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="13" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;"/>
+        <entry field="true" id="24" symbol="showSeconds"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="8389543" symbol="phoneConnected"/>
+        <entry field="true" id="29" symbol="CAL_20"/>
+        <entry id="7" object="true" symbol="radoc_crossover_faceApp"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8391500" symbol="solarIntensity"/>
+        <entry id="8391839" method="true" symbol="getBodyBatteryHistory"/>
+        <entry field="true" id="17" symbol="fnt_CAL20B"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="10" symbol="bodyBattery"/>
+        <entry field="true" id="32" symbol="AppName"/>
+        <entry id="6" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="26" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8391489" module="true" symbol="Weather"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="5" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389809" symbol="order"/>
+        <entry field="true" id="11" symbol="dateFormatShort"/>
+        <entry id="20" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadResources&gt;"/>
+        <entry id="22" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="18" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="15" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="21" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;"/>
+        <entry field="true" id="28" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="31" symbol="Calculator"/>
+        <entry id="8" object="true" symbol="radoc_crossover_faceView"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="25" symbol="systemStats"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="14" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="30" symbol="CAL_20B"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry id="16" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;"/>
+        <entry id="19" method="true" symbol="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;"/>
+        <entry field="true" id="23" symbol="powerBattery"/>
+        <entry id="9" module="true" symbol="Layouts"/>
+        <entry field="true" id="27" symbol="weather"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="12" symbol="deviceSettings"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389584" symbol="notificationCount"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435738" name="secondStr" stackId="1" startPc="268435622"/>
+        <entry endPc="268435738" name="middleRightLabel" stackId="2" startPc="268435622"/>
+        <entry endPc="268436071" name="connectedStr" stackId="1" startPc="268435830"/>
+        <entry endPc="268436071" name="text" stackId="2" startPc="268435830"/>
+        <entry endPc="268436071" name="view" stackId="3" startPc="268435830"/>
+        <entry endPc="268436443" name="dayOfWeekStr" stackId="1" startPc="268436077"/>
+        <entry endPc="268436443" name="dateString" stackId="2" startPc="268436077"/>
+        <entry endPc="268436443" name="middleRightLabel" stackId="3" startPc="268436077"/>
+        <entry endPc="268438171" name="battery" stackId="1" startPc="268437976"/>
+        <entry endPc="268438171" name="text" stackId="2" startPc="268437976"/>
+        <entry endPc="268438171" name="view" stackId="3" startPc="268437976"/>
+        <entry arg="true" endPc="268438216" name="dc" stackId="1" startPc="268438173"/>
+        <entry arg="true" endPc="268438757" name="dc" stackId="1" startPc="268438671"/>
+        <entry arg="true" endPc="268439310" name="dc" stackId="1" startPc="268438758"/>
+        <entry endPc="268439310" name="rez_cmp_local_text_TopCenterLabel" stackId="2" startPc="268438770"/>
+        <entry endPc="268439310" name="rez_cmp_local_text_MiddleLeftLabel" stackId="3" startPc="268438770"/>
+        <entry endPc="268439310" name="rez_cmp_local_text_MiddleRightLabel" stackId="4" startPc="268438770"/>
+        <entry endPc="268439310" name="rez_cmp_local_text_BottomCenterLabel" stackId="5" startPc="268438770"/>
+    </localVars>
+    <deviceInfo deviceVersion="4b539e49a861670d65dc65ba400dea167e8109d1" partNumber="006-B4155-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="CAL_20B"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="CAL_20"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Calculator"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="71" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/radoc_crossover_faceApp" offset="142" parentId="globals" symbolId="radoc_crossover_faceApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="213" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/radoc_crossover_faceView" offset="276" parentId="globals" symbolId="radoc_crossover_faceView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="539" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="578" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="617" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="672" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="radoc_crossover_faceApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="getApp" startPc="268435479">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435528" name="&lt;init&gt;" parent="Rez" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435547" name="&lt;init&gt;" parent="radoc_crossover_faceView" startPc="268435529">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435550" name="onStart" parent="radoc_crossover_faceApp" startPc="268435548">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435593" name="getInitialView" parent="radoc_crossover_faceApp" startPc="268435551">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435614" name="initialize" parent="radoc_crossover_faceApp" startPc="268435594">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435617" name="onStop" parent="radoc_crossover_faceApp" startPc="268435615">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435739" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleLeft&gt;" parent="radoc_crossover_faceView" startPc="268435618">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435825" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherTemperture&gt;" parent="radoc_crossover_faceView" startPc="268435740">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436072" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawTopCenter&gt;" parent="radoc_crossover_faceView" startPc="268435826">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436444" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawMiddleRight&gt;" parent="radoc_crossover_faceView" startPc="268436073">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436469" name="onHide" parent="radoc_crossover_faceView" startPc="268436445">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437946" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;getWeatherString&gt;" parent="radoc_crossover_faceView" startPc="268436470">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="radoc_crossover_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437971" name="onShow" parent="radoc_crossover_faceView" startPc="268437947">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438172" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;drawBottomCenter&gt;" parent="radoc_crossover_faceView" startPc="268437972">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438216" name="onLayout" parent="radoc_crossover_faceView" startPc="268438173">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438418" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStatsLazy&gt;" parent="radoc_crossover_faceView" startPc="268438217">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438474" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;unloadStatsLazy&gt;" parent="radoc_crossover_faceView" startPc="268438419">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438587" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadStats&gt;" parent="radoc_crossover_faceView" startPc="268438475">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="radoc_crossover_faceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438637" name="&lt;globals/radoc_crossover_faceView/&lt;&gt;loadResources&gt;" parent="radoc_crossover_faceView" startPc="268438588">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438670" name="initialize" parent="radoc_crossover_faceView" startPc="268438638">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438757" name="onUpdate" parent="radoc_crossover_faceView" startPc="268438671">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439310" name="WatchFace" parent="Layouts" startPc="268438758">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
