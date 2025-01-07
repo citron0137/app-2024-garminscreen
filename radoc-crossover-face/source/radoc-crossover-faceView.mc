@@ -45,7 +45,11 @@ class radoc_crossover_faceView extends WatchUi.WatchFace {
         phoneConnected = deviceSettings.phoneConnected; // Phone Connected
         // Body Battery
         if ((Toybox has :SensorHistory) && (Toybox.SensorHistory has :getBodyBatteryHistory)) {
-            bodyBattery = SensorHistory.getBodyBatteryHistory({:period=>1, :order=> Toybox.SensorHistory.ORDER_NEWEST_FIRST}).next().data;
+            var bodyBatteryHistoryCursor = SensorHistory.getBodyBatteryHistory({:period=>1, :order=> Toybox.SensorHistory.ORDER_NEWEST_FIRST});
+            bodyBatteryHistoryCursor = bodyBatteryHistoryCursor.next();
+            if(bodyBatteryHistoryCursor != null) {
+                bodyBattery = bodyBatteryHistoryCursor.data;
+            }
         }
         weather = Weather.getCurrentConditions(); // Weather
     }
@@ -121,8 +125,9 @@ class radoc_crossover_faceView extends WatchUi.WatchFace {
         return "New Weather";                    
     }
 
-    private function getWeatherTemperture() as String {
+    private function getWeatherTemperature() as String {
         if(weather == null) { return "???"; }
+        if(weather.temperature == null) { return "???"; }
         return Lang.format("$1$", [weather.temperature.format("%d")]);
     }
 
@@ -171,7 +176,7 @@ class radoc_crossover_faceView extends WatchUi.WatchFace {
 
     private function drawBottomCenter() as Void {
         var battery = Lang.format("wb $1$% bb $2$% ", [powerBattery.format("%d"), bodyBattery.format("%d")]);
-        var text = battery + "\n" +getWeatherString() + " (" + getWeatherTemperture()+")";
+        var text = battery + "\n" +getWeatherString() + " (" + getWeatherTemperature()+")";
         var view = View.findDrawableById("BottomCenterLabel") as Text;
         view.setText(text);
         view.setFont(fnt_CAL20B);
