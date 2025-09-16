@@ -32,6 +32,10 @@ Garmin Instinct Crossover용으로 제작한 Connect IQ 워치페이스들입니
 ## 📸 스크린샷
 각 워치페이스의 실제 모습을 확인해보세요!
 
+|  **radoc-crossover-face** | **try01** | **wyjang**|
+|-----------|---------|---------|
+|   <img src="radoc-crossover-face/image.png" width="150"> | <img src="try01/karina_screenshot.png" width="150">  | <div style="width:150px; height:150px; background:#f0f0f0; display:flex; align-items:center; justify-content:center; font-size:48px; border:2px solid #ccc;">❓</div> |
+
 ## ⚠️ 주의사항
 - 개인 사용 목적
 - 상업적 사용 시 Garmin 정책 확인 필요
